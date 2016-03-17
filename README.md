@@ -5,7 +5,7 @@
 - 学历：本科
 - 性别：男
 - 年龄：25  
-- 手机：130-5552-9675
+- 手机：
 - 邮箱：chen_zhen_yao@sina.com  
   现日常主要使用的技术为Javascript(/NodeJS)，有java开发经验。
 
